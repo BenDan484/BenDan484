@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://BenDan484.github.io/BenDan484</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://BenDan484.github.io/BenDan484</link></image><lastBuildDate>Fri, 09 Jan 2026 06:00:12 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>计算机网络基础</title><link>https://BenDan484.github.io/BenDan484/post/ji-suan-ji-wang-luo-ji-chu.html</link><description># 什么是计算机网络
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://BenDan484.github.io/BenDan484</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://BenDan484.github.io/BenDan484</link></image><lastBuildDate>Fri, 09 Jan 2026 08:50:27 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>学会两件事不再被人算计</title><link>https://BenDan484.github.io/BenDan484/post/xue-hui-liang-jian-shi-bu-zai-bei-ren-suan-ji.html</link><description># 毛选智慧
+## 开辟自己的战场
+对方影响一个人的情绪,他会有很多借口和理由,我们要做的是方向明确,在明面上让所有人知道那一个人的能力不配和别人交往,不进对方的战场
+## 团结能团结的大多数
+展示自己的能力,未来能给别人提供什么价值,表扬每个人的付出,时间久了,所有人自然知道一个人的真正面目了,也就是不要烦别人,被情绪裹挟,想让所有人理解不是自己的问题是不可能的
+## 事物两面性
+坏事可以是好事,比如用小钱试探出一个人的人品,或者自己人情哪里不懂以后怎么去问还是去改正,早早发生的事,不也是避免将来出大事的一种形式吗?。</description><guid isPermaLink="true">https://BenDan484.github.io/BenDan484/post/xue-hui-liang-jian-shi-bu-zai-bei-ren-suan-ji.html</guid><pubDate>Fri, 09 Jan 2026 08:49:58 +0000</pubDate></item><item><title>计算机网络基础</title><link>https://BenDan484.github.io/BenDan484/post/ji-suan-ji-wang-luo-ji-chu.html</link><description># 什么是计算机网络
 在不同地理位置单独运行中的计算机通过外部设备连接成为一个规模大并且功能强的包含软件和硬件的系统.
 ## 计算机网络的基本功能
 1.资源共享
