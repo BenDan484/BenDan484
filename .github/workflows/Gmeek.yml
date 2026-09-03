@@ -46,6 +46,7 @@ jobs:
           pip install --upgrade pip
           pip install "lxml==6.1.2"
           pip install -r /opt/Gmeek/requirements.txt
+          pip install cmarkgfm
 
       - name: Generate new html
         run: |
